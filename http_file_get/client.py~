@@ -1,0 +1,7 @@
+import sys
+from socket import *
+
+IP = sys.argv[1]
+
+filename = raw_input()
+
